@@ -42,8 +42,8 @@ The study also incorporates **feature selection techniques** to identify the mos
    ```sh
    git clone https://github.com/your-username/CPU-Time-Prediction.git
    cd CPU-Time-Prediction
-pip install -r requirements.txt
-python model_comparison.py
+   pip install -r requirements.txt
+   python model_comparison.py
 
 
 This `README.md` is ready for GitHub. Let me know if you need any changes! 🚀
